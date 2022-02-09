@@ -10,3 +10,6 @@ Also learnt how to call parent function from child component.
 
 - [Original Project of freecodecamp is here](https://react-projects-2-tours.netlify.app/)
  
+
+https://user-images.githubusercontent.com/53224607/153268597-8cf87966-4e2f-4b88-b374-6386da9584af.mp4
+
